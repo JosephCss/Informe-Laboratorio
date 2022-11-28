@@ -37,7 +37,7 @@ Estructurar de manera adecuada y simple el circuito electrico
 
 # 6.CONCLUSIONES
 
-En el presente proyecto se logro desarrollar cun medidor de nivel de agua el cual ademas del uso de resistencias , transistores y de mas elementos electricos ampliaron nuestro conocimento en la materia puesto que nos motivo a investigar del funcionamiento del mismo para el desarrollo correcto del circuito, agregando que al principio hubo complicaciones al estructurar de manera simple y adecuada pero finalmente se logro el objetivo de crear un circuito bien organizado 
+En el presente proyecto se logro desarrollar un medidor de nivel de agua el cual ademas del uso de resistencias , transistores y de mas elementos electricos ampliaron nuestro conocimento en la materia puesto que nos motivo a investigar del funcionamiento del mismo para el desarrollo correcto del circuito, agregando que al principio hubo complicaciones al estructurar de manera simple y adecuada pero finalmente se logro el objetivo de crear un circuito bien organizado 
 
 #7.BIBLIOGRAFÍA
 
