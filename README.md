@@ -18,6 +18,8 @@ Estructurar de manera adecuada y simple el circuito electrico
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/86561660/204385507-9f9dbb41-48b4-44c6-b21d-0c12420049c7.png)
+![image](https://user-images.githubusercontent.com/86561660/204389848-4dc621d7-6243-41e7-8847-ab75b7b6f872.png)
+
 
 1. Se identifico la posicion en la que iban ir nuestros transistores 
 
