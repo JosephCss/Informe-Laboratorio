@@ -1,4 +1,4 @@
-# Informe-Laboratorio
+# Informe-Proyecto
 # 1.OBJETIVOS
 # Objetivo General
 Realizar un circuito que nos permita medir el nivel al que se encuentra el agua 
