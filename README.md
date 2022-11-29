@@ -34,8 +34,7 @@ Estructurar de manera adecuada y simple el circuito electrico
 5. Se colocaran unos jumpers alineados con la base del transistor para que de esta manera se puedan prenderse adicional de que se colocara una resistencia en la parte positiva y en area central de trabajo donde estan nuesros resistores y leds y un jumper alineados de igual manera 
 
 # 5.VIDEO
-
-https://www.youtube.com/watch?v=7w0LNNvLfTY&ab_channel=JosephFrancisco
+https://youtu.be/Qhio5ZTtdzA
 
 # 6.CONCLUSIONES
 
