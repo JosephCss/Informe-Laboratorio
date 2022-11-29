@@ -24,14 +24,14 @@ Estructurar de manera adecuada y simple el circuito electrico
 
 1. Se identifico la posicion en la que iban ir nuestros transistores 
 
-2. Segundo identificar el colector de nuestro resistor el cual nos permitira conectarnos al lado negativo 
+2. Segundo identificar el colector de nuestro y tansistor el cual nos permitira conectarnos al lado negativo 
 
 3. Tercero se colocara los resistores alineado con la parte emisora del transistor 
 
 
 4.  Igualmente alineado por la misma linea del resistor se colocaran los led
 
-5. Se colocaran unos jumpers alineados con la base para que de esta manera se conecten a base y puedan prenderse adicional de que se colocara una resistencia en la parte positiva y en area central de trabajo donde estan nuesros resistores y leds y un jumper alineados de igual manera 
+5. Se colocaran unos jumpers alineados con la base del transistor para que de esta manera se puedan prenderse adicional de que se colocara una resistencia en la parte positiva y en area central de trabajo donde estan nuesros resistores y leds y un jumper alineados de igual manera 
 
 # 5.VIDEO
 
