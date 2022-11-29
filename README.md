@@ -2,7 +2,7 @@
 # 1.OBJETIVOS
 # Objetivo General
 Realizar un circuito que nos permita medir el nivel al que se encuentra el agua 
-# Objetivos Generales 
+# Objetivos 
 Emplear resistencias,transistores, tablero de conecciones,leds y mas componentes electricos en un circuito 
 
 Investigar como funcionan cada uno de los componentes electricos en un circuito
