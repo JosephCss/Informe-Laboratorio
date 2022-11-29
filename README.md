@@ -11,9 +11,10 @@ Estructurar de manera adecuada y simple el circuito electrico
 
 # 2.MARCO TEÓRICO
 
-![image](https://user-images.githubusercontent.com/86561660/204376194-ad0fa9fc-1024-43d7-961e-fe2891d9ca5a.png)
+![proyec1](https://user-images.githubusercontent.com/86561660/204469747-c1975a1f-55c7-4166-afc5-32dba7230916.png)
 
-![image](https://user-images.githubusercontent.com/86561660/204376243-fb90615c-8f10-4282-9f98-0044446e2dcc.png)
+
+![proyec1 2](https://user-images.githubusercontent.com/86561660/204469755-53c63457-14bf-4cc0-a113-d05accc57368.png)
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -34,6 +35,7 @@ Estructurar de manera adecuada y simple el circuito electrico
 
 # 5.VIDEO
 
+https://www.youtube.com/watch?v=7w0LNNvLfTY&ab_channel=JosephFrancisco
 
 # 6.CONCLUSIONES
 
